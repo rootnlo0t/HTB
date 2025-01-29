@@ -10,7 +10,7 @@ Content-Length: 64
 
 --
 
-To get the JWT token beacuse all the usefull functions have @jwt_required
+# To get the JWT token beacuse all the usefull functions have @jwt_required
 
 
 POST /visit HTTP/1.1
